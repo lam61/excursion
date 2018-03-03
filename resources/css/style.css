@@ -6,11 +6,25 @@ body{
 
 h1{
   font-size: 50px;
-  font-weight: normal;
+  font-weight: bold;
   color: white;
   text-align: center;
 }
 h2{
+  color: white;
+  font-weight: bold;
+  font-size: 42px;
+  }
+
+.clink{
   color: aquamarine;
   font-size: 16px;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+.copyright{
+  text-align: right;
+  color: gray;
 }
